@@ -20,13 +20,13 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
 		}
 ?>
 </head>
-<!-- Logo -->
+<!-- Entrada Admin -->
 <style>
 .card-body{
 	display: flex;
   	align-items: center;
   	justify-content: center;
-  	min-height: 100vh;
+  	min-height: 50vh;
 }
 
 </style>
@@ -36,11 +36,11 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
   				<div class="card-body">
   					<form id="login-form" >
   						<div class="form-group">
-  							<label for="username" class="control-label">Username</label>
+  							<label for="username" class="control-label">Nombre</label>
   							<input type="text" id="username" name="username" class="form-control">
   						</div>
   						<div class="form-group">
-  							<label for="password" class="control-label">Password</label>
+  							<label for="password" class="control-label">Contraseña</label>
   							<input type="password" id="password" name="password" class="form-control">
   						</div>
   						<button class="btn-sm btn-block btn-wave col-md-4 btn-primary">Login</button>

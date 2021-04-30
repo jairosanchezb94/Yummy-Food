@@ -1614,9 +1614,13 @@ nav#sidebar {
     position: fixed;
     z-index: 99;
     left: 0;
+    top: 0;
     width: 250px;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.bg-dark {
+  background-color: #000000!important;
 }
 a.nav-item {
     position: relative;

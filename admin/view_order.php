@@ -3,9 +3,9 @@
 	<table class="table table-bordered">
 		<thead>
 			<tr>
-				<th>Qty</th>
-				<th>Order</th>
-				<th>Amount</th>
+				<th>Cantidad</th>
+				<th>Orden</th>
+				<th>Precio</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -32,8 +32,8 @@
 		</tfoot>
 	</table>
 	<div class="text-center">
-		<button class="btn btn-primary" id="confirm" type="button" onclick="confirm_order()">Confirm</button>
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+		<button class="btn btn-primary" id="confirm" type="button" onclick="confirm_order()">Confirmar</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
 
 	</div>
 </div>

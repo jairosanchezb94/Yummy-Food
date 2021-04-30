@@ -193,7 +193,7 @@
 		end_load()
 	})
 	$('.delete_menu').click(function(){
-		_conf("Are you sure to delete this menu?","delete_menu",[$(this).attr('data-id')])
+		_conf("Seguro que quieres eliminar este producto?","delete_menu",[$(this).attr('data-id')])
 	})
 	function delete_menu($id){
 		start_load()
