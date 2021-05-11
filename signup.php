@@ -14,15 +14,15 @@
 			<input type="text" name="mobile" required="" class="form-control">
 		</div>
 		<div class="form-group">
-			<label for="" class="control-label">Correo</label>
+			<label for="" class="control-label">Dirección</label>
 			<textarea cols="30" rows="3" name="address" required="" class="form-control"></textarea>
 		</div>
 		<div class="form-group">
-			<label for="" class="control-label">Email</label>
+			<label for="" class="control-label">Confirmar Email</label>
 			<input type="email" name="email" required="" class="form-control">
 		</div>
 		<div class="form-group">
-			<label for="" class="control-label">Contraseña</label>
+			<label for="" class="control-label">Confirmar Contraseña</label>
 			<input type="password" name="password" required="" class="form-control">
 		</div>
 		<button class="button btn btn-info btn-sm">Crear</button>
