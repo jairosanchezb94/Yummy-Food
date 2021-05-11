@@ -2,7 +2,7 @@
 <div class="container-fluid">
 	<form action="" id="signup-frm">
 		<div class="form-group">
-			<label for="" class="control-label">Nombre propio</label>
+			<label for="" class="control-label">Nombre y Apellido</label>
 			<input type="text" name="first_name" required="" class="form-control">
 		</div>
 		<div class="form-group">
@@ -10,7 +10,7 @@
 			<input type="text" name="last_name" required="" class="form-control">
 		</div>
 		<div class="form-group">
-			<label for="" class="control-label">Contacto</label>
+			<label for="" class="control-label">Teléfono</label>
 			<input type="text" name="mobile" required="" class="form-control">
 		</div>
 		<div class="form-group">
