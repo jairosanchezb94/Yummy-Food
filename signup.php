@@ -34,6 +34,7 @@
 		display:none;
 	}
 </style>
+<!--Funcion Crear cuanta-->
 <script>
 	$('#signup-frm').submit(function(e){
 		e.preventDefault()

@@ -35,7 +35,7 @@
 		display: none;
 	}
 </style>
-
+<!--Funcion añadir añ carrito-->
 <script>
 	$('#qty-minus').click(function(){
 		var qty = $('input[name="qty"]').val();

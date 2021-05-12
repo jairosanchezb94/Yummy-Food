@@ -42,6 +42,7 @@
 		display: none
 	}
 </style>
+<!--Funcion corfirmar orden-->
 <script>
 	function confirm_order(){
 		start_load()

@@ -43,7 +43,7 @@
             </div>
         </div>
     </div>
-
+    <!--confirmacion de pedido-->
     <script>
     $(document).ready(function(){
           $('#checkout-frm').submit(function(e){

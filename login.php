@@ -19,7 +19,7 @@
 		display:none;
 	}
 </style>
-
+<!--Usuario nuenvo-->
 <script>
 	$('#new_account').click(function(){
 		uni_modal("Crear una nueva cuenta",'signup.php?redirect=index.php?page=checkout')
