@@ -23,6 +23,12 @@ c. Y por ultimo la web de phpmyadmin http://localhost/phpmyadmin/index.php
 
 
 
+
+
+
+
+
+
 Copyright 2021 Jairo Sánchez
 
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), 
