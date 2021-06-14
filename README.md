@@ -31,7 +31,7 @@ c. Y por ultimo la web de phpmyadmin http://localhost/phpmyadmin/index.php
 
 Copyright 2021 Jairo Sánchez
 
-Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), 
+Por la presente se otorga no otrocaga permiso de descarga gratuita, para usar este codigo debe ser comprado, contacto por gmail al jairosanchezb5@gmail.com para poder obtener una copia de este software y los archivos de documentación asociados (el "Software"), 
 para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión ,
 publicar, distribuir, sublicenciar y / o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, 
 sujeto a las siguientes condiciones:
@@ -45,7 +45,7 @@ YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA D
 
 Copyright 2021 Jairo Sánchez
 
-Permission is hereby granted, without charge, to anyone who obtains a copy of this software and associated documentation files (the "Software"),
+No other free download permission is hereby granted, to use this code it must be purchased, contact by gmail at jairosanchezb5@gmail.com to obtain a copy of this software and associated documentation files (the "Software"),
 to operate the Software without restrictions, including but not limited to the rights to use, copy, modify, merge,
 publish, distribute, sublicense and / or sell copies of the Software, and allow the persons to whom the Software is provided to do so,
 subject to the following conditions:
